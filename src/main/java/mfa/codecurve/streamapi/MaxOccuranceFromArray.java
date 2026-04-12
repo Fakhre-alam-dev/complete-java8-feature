@@ -20,7 +20,5 @@ public class MaxOccuranceFromArray {
         System.out.println("Frequency Map: " + maxOccur);
         System.out.println("Max Occurring: " + stringLongEntry.getKey() + " = " + stringLongEntry.getValue());
 
-
-
     }
 }
